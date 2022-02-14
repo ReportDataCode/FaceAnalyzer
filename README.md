@@ -1,6 +1,6 @@
 # FaceAnalyzer
 A console application that can detect and recognize human faces in images. 
-The appication uses the Face client library for .NET
+The application uses the Face client library for .NET
 
 ## Prerequisites
 * Visual Studio IDE
